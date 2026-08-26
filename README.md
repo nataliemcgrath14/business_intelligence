@@ -7,7 +7,7 @@ Semester: Fall 2026
 
 * Phase 1: Data Acquisition \& Transformation
 * Phase 2: Data Visualization \& Communication
-* Phase 3: Exploratory Data Mining \& Project Synthesis 
+* Phase 3: Exploratory Data Mining \& Project Synthesis
 
 
 
@@ -16,6 +16,7 @@ Semester: Fall 2026
 \##Tools
 
 * Git
-* GitHub 
-* R 
+* GitHub
+* R
+* RStudio
 
